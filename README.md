@@ -3,7 +3,7 @@ Atualmente Analista Contabil, Estudande e Práticante de Análise e Ciência de 
 
 - 👨🏻‍💻 **Contador**
 - 🖥️ Conchecimento Prático em:
-- <div style="display: inline">
+ <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-document_icon-icons.com_57634.png" />&nbsp;&nbsp;
